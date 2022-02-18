@@ -256,18 +256,6 @@ li.slick-active button{
 
 /*fim do slider*/
 
-section.marcas{
-    padding:100px 0;
-}
-
-section.marcas h2{
-    text-align: center;
-    font-size: 40px;
-}
-
-section.marcas img{
-    width: calc(100% / 5);
-}
 
 section.contato{
     padding: 40px 0;
@@ -314,6 +302,19 @@ section.contato input[type=email]{
     color: white;
     font-size: 20px;
     border-radius: 15px;
+}
+
+section.marcas{
+    padding:100px 0;
+}
+
+section.marcas h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+section.marcas img{
+    width: calc(100% / 5);
 }
 
 footer{
